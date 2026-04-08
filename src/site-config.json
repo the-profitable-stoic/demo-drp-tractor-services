@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "DRP Tractor Services",
+    "phone": "+15059910677",
+    "category": "excavation contractor",
+    "city": "Albuquerque",
+    "state": "NM"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Albuquerque's Excavation Experts",
+      "heroSubline": "DRP Tractor Services delivers reliable excavation for residential and commercial projects. Decades of experience in the Albuquerque metro area.",
+      "aboutTitle": "Excavation Done Right, Right Here in Albuquerque",
+      "aboutText": [
+        "DRP Tractor Services started with a single tractor and a commitment to doing things the right way. We saw a need for dependable excavation services in Albuquerque, built on honesty and hard work.",
+        "Our approach is simple: understand the project, plan meticulously, and execute flawlessly. We value clear communication, respect for your property, and a dedication to exceeding expectations. We handle every project with the same level of care, no matter the size.",
+        "We're proud to be a part of the Albuquerque community. We support local initiatives and believe in giving back to the city that has given us so much. When you choose DRP Tractor Services, you're choosing a neighbor."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Operators",
+          "description": "Our team has years of experience navigating Albuquerque's unique soil conditions and regulations."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We show up on time, prepared, and ready to work. Your project timeline is our priority."
+        },
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety on every job site, protecting our team and your property."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed every step of the way, answering your questions and addressing your concerns promptly."
+        }
+      ],
+      "ctaHeadline": "Ready to Break Ground?",
+      "ctaSubline": "Get a free, no-obligation quote for your excavation project today."
+    },
+    "services": [
+      {
+        "slug": "site-grading",
+        "name": "Site Grading",
+        "shortDescription": "Precision site grading for proper drainage and construction readiness.",
+        "description": "Proper site grading is crucial for preventing water damage, ensuring structural integrity, and creating a stable foundation for any construction project. DRP Tractor Services provides expert site grading services throughout Albuquerque and the surrounding areas. We utilize advanced equipment and precise techniques to achieve the ideal slope and elevation for your property. Our team understands the importance of managing Albuquerque's monsoon season runoff. Whether you're preparing for a new home build, a commercial development, or simply need to improve drainage on your existing property, we have the expertise and equipment to get the job done right. We work closely with engineers and contractors to ensure that our grading meets all required specifications and regulations. From initial assessment to final compaction, we pay attention to every detail to deliver a smooth, level, and stable surface. We take into account the unique soil conditions prevalent in the Albuquerque area, including sandy soils and caliche layers, to ensure long-lasting results.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the existing topography, soil conditions, and drainage patterns.",
+          "Step 2: Grading Plan - We develop a detailed grading plan based on your project requirements and local regulations.",
+          "Step 3: Rough Grading - We use heavy equipment to move large amounts of soil and establish the general slope.",
+          "Step 4: Fine Grading - We refine the surface with precision grading techniques to achieve the desired elevation and compaction."
+        ],
+        "benefits": [
+          "Prevents water damage and erosion",
+          "Ensures a stable foundation for construction",
+          "Improves drainage and aesthetics",
+          "Meets all required specifications and regulations"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between rough grading and fine grading?",
+            "answer": "Rough grading involves moving large amounts of soil to establish the general slope, while fine grading is the precise refinement of the surface to achieve the desired elevation and compaction."
+          },
+          {
+            "question": "How do you handle drainage issues during site grading?",
+            "answer": "We carefully analyze the existing drainage patterns and incorporate solutions such as swales, French drains, and proper sloping to effectively manage water runoff."
+          },
+          {
+            "question": "What equipment do you use for site grading?",
+            "answer": "We use a variety of heavy equipment, including bulldozers, graders, excavators, and compactors, to efficiently and accurately grade your site."
+          }
+        ]
+      },
+      {
+        "slug": "trenching-and-excavation",
+        "name": "Trenching and Excavation",
+        "shortDescription": "Safe and efficient trenching for utilities, foundations, and more.",
+        "description": "DRP Tractor Services offers comprehensive trenching and excavation services for a wide range of projects in Albuquerque and surrounding communities. Our experienced operators are skilled in safely and efficiently digging trenches for utilities, foundations, drainage systems, and other underground infrastructure. We adhere to strict safety protocols and comply with all local regulations to ensure the safety of our team and your property. We understand the importance of minimizing disruption to your property and neighborhood. We use specialized equipment to excavate precisely and efficiently, minimizing soil disturbance and reducing the impact on surrounding areas. We'll carefully backfill the trench, compacting the soil to prevent settling and ensure stability. Whether you're installing new utilities, building a foundation, or creating a drainage system, DRP Tractor Services has the experience and equipment to handle your trenching and excavation needs. We're familiar with the soil conditions in Albuquerque.",
+        "process": [
+          "Step 1: Utility Location - We identify and mark all underground utilities to prevent damage during excavation.",
+          "Step 2: Trenching - We use excavators or trenchers to dig trenches to the required depth and width.",
+          "Step 3: Shoring and Support - When necessary, we install shoring and support systems to prevent trench collapse.",
+          "Step 4: Backfilling and Compaction - We backfill the trench with suitable material and compact it to ensure stability."
+        ],
+        "benefits": [
+          "Safe and efficient trenching",
+          "Minimizes disruption to your property",
+          "Complies with all local regulations",
+          "Experienced operators and specialized equipment"
+        ],
+        "faq": [
+          {
+            "question": "How deep can you dig a trench?",
+            "answer": "We can dig trenches to a maximum depth of [specific depth], depending on the soil conditions and project requirements."
+          },
+          {
+            "question": "What safety precautions do you take during trenching?",
+            "answer": "We implement a variety of safety precautions, including utility location, shoring and support systems, and regular inspections, to prevent trench collapse and other accidents."
+          },
+          {
+            "question": "Do I need a permit for trenching?",
+            "answer": "Permit requirements vary depending on the depth and location of the trench. We can assist you in obtaining the necessary permits."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Efficient and responsible land clearing for construction and development.",
+        "description": "DRP Tractor Services provides professional land clearing services for residential and commercial projects throughout the Albuquerque area. We understand the importance of responsible land clearing practices, and we strive to minimize environmental impact while preparing your site for construction or development. Our team is equipped with the necessary equipment and expertise to remove trees, brush, and other vegetation quickly and efficiently. We offer a range of land clearing services, including tree removal, brush cutting, stump grinding, and debris removal. We'll work closely with you to develop a customized land clearing plan that meets your specific needs and budget. We also prioritize responsible disposal of vegetation and debris, recycling materials whenever possible. We're cognizant of the dry climate of Albuquerque and the need to prevent wildfires. DRP Tractor Services is committed to providing safe, efficient, and environmentally responsible land clearing services.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the vegetation, terrain, and environmental considerations.",
+          "Step 2: Clearing Plan - We develop a customized land clearing plan based on your project requirements and budget.",
+          "Step 3: Vegetation Removal - We remove trees, brush, and other vegetation using appropriate equipment.",
+          "Step 4: Debris Removal - We remove and dispose of all debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prepares your site for construction or development",
+          "Minimizes environmental impact",
+          "Safe and efficient removal of vegetation",
+          "Responsible disposal of debris"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for land clearing?",
+            "answer": "Permit requirements vary depending on the size and location of the land being cleared. We can assist you in obtaining the necessary permits."
+          },
+          {
+            "question": "How do you dispose of the vegetation and debris?",
+            "answer": "We prioritize responsible disposal, recycling materials whenever possible and disposing of the remaining debris at approved landfills."
+          },
+          {
+            "question": "How long does land clearing take?",
+            "answer": "The duration of land clearing depends on the size and complexity of the site. We'll provide you with an estimated timeline during the initial assessment."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Effective drainage solutions to protect your property from water damage.",
+        "description": "Albuquerque's monsoon season can bring heavy rainfall and potential water damage to properties if drainage isn't properly managed. DRP Tractor Services specializes in providing effective drainage solutions to protect your home or business from flooding, erosion, and other water-related problems. We offer a range of drainage services, including French drains, swales, culverts, and grading improvements. Our team will assess your property's drainage issues and recommend the most appropriate solution to address the specific challenges. We understand the unique soil conditions and rainfall patterns in the Albuquerque area, and we design our drainage systems to effectively manage water runoff. Whether you're experiencing standing water in your yard, erosion on your property, or water damage to your foundation, DRP Tractor Services can provide a customized drainage solution to protect your investment. We also handle drainage for new construction, preventing problems before they start.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the existing drainage patterns, soil conditions, and potential problem areas.",
+          "Step 2: Drainage Plan - We develop a customized drainage plan based on your property's specific needs.",
+          "Step 3: Installation - We install the drainage system using appropriate equipment and techniques.",
+          "Step 4: Testing and Inspection - We test the drainage system to ensure it is functioning properly and meets all requirements."
+        ],
+        "benefits": [
+          "Protects your property from water damage",
+          "Prevents flooding and erosion",
+          "Improves drainage and aesthetics",
+          "Customized solutions for your specific needs"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe to redirect surface and groundwater away from an area."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include standing water in your yard, erosion, water damage to your foundation, and excessive runoff during rainfall."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost of a drainage system varies depending on the size and complexity of the project. We'll provide you with a free estimate after assessing your property's needs."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-excavation",
+        "name": "Foundation Excavation",
+        "shortDescription": "Precise foundation excavation for new construction and additions.",
+        "description": "DRP Tractor Services provides expert foundation excavation services for new construction and additions throughout the Albuquerque metro area. We understand the importance of a solid foundation, and we take pride in providing precise and accurate excavation to ensure the structural integrity of your building. Our team is experienced in excavating foundations for a variety of building types, including residential homes, commercial buildings, and industrial facilities. We use advanced equipment and techniques to excavate to the required depth and dimensions, while minimizing soil disturbance and ensuring site stability. We work closely with builders and engineers to ensure that our excavation meets all specifications and codes. We're familiar with Albuquerque's adobe-style and stucco homes and the unique considerations for foundation work in these types of structures. From initial site preparation to final grading, DRP Tractor Services is committed to providing reliable and professional foundation excavation services.",
+        "process": [
+          "Step 1: Site Preparation - We clear the site of vegetation and debris and prepare it for excavation.",
+          "Step 2: Excavation - We excavate the foundation to the required depth and dimensions.",
+          "Step 3: Grading and Leveling - We grade and level the bottom of the excavation to ensure a stable base for the foundation.",
+          "Step 4: Inspection - We inspect the excavation to ensure it meets all specifications and codes."
+        ],
+        "benefits": [
+          "Precise and accurate excavation",
+          "Ensures the structural integrity of your building",
+          "Meets all specifications and codes",
+          "Experienced in excavating foundations for a variety of building types"
+        ],
+        "faq": [
+          {
+            "question": "How deep should a foundation be?",
+            "answer": "The depth of a foundation depends on several factors, including the soil conditions, climate, and building codes. We'll determine the appropriate depth based on your specific project requirements."
+          },
+          {
+            "question": "What is the difference between a slab foundation and a crawl space foundation?",
+            "answer": "A slab foundation is a concrete slab that is poured directly on the ground, while a crawl space foundation is a raised foundation with a crawl space underneath the building."
+          },
+          {
+            "question": "Do I need a permit for foundation excavation?",
+            "answer": "Yes, you typically need a permit for foundation excavation. We can assist you in obtaining the necessary permits."
+          }
+        ]
+      },
+      {
+        "slug": "erosion-control",
+        "name": "Erosion Control",
+        "shortDescription": "Protecting Albuquerque landscapes with effective erosion control measures.",
+        "description": "DRP Tractor Services offers comprehensive erosion control services to protect your property and the surrounding environment from soil loss and water pollution. Albuquerque's dry climate and occasional intense rainfall events can lead to significant erosion problems if left unaddressed. We provide a range of erosion control solutions, including silt fencing, erosion blankets, terracing, and vegetation stabilization. Our team will assess your property's erosion risks and recommend the most appropriate measures to prevent soil loss and protect water quality. We use environmentally friendly materials and techniques whenever possible to minimize the impact on the surrounding ecosystem. We're familiar with the native vegetation and soil types in the Albuquerque area, and we design our erosion control systems to blend seamlessly with the natural landscape. Whether you're dealing with erosion on a construction site, a residential property, or a commercial development, DRP Tractor Services can provide effective and sustainable erosion control solutions. We are also familiar with requirements around the Petroglyph National Monument and other sensitive areas.",
+        "process": [
+          "Step 1: Site Assessment - We evaluate the existing erosion problems, soil conditions, and environmental considerations.",
+          "Step 2: Erosion Control Plan - We develop a customized erosion control plan based on your property's specific needs.",
+          "Step 3: Installation - We install the erosion control measures using appropriate equipment and techniques.",
+          "Step 4: Monitoring and Maintenance - We monitor the erosion control measures to ensure they are functioning properly and provide ongoing maintenance as needed."
+        ],
+        "benefits": [
+          "Protects your property from soil loss",
+          "Prevents water pollution",
+          "Environmentally friendly materials and techniques",
+          "Customized solutions for your specific needs"
+        ],
+        "faq": [
+          {
+            "question": "What is silt fencing?",
+            "answer": "Silt fencing is a temporary barrier made of fabric that is used to trap sediment and prevent it from leaving a construction site or other disturbed area."
+          },
+          {
+            "question": "What are erosion blankets?",
+            "answer": "Erosion blankets are mats made of biodegradable materials that are used to protect soil from erosion and promote vegetation growth."
+          },
+          {
+            "question": "How much does erosion control cost?",
+            "answer": "The cost of erosion control varies depending on the size and complexity of the project. We'll provide you with a free estimate after assessing your property's needs."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Albuquerque",
+        "slug": "albuquerque-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services is proud to offer comprehensive excavation services to the residents and businesses of Albuquerque, New Mexico. With years of experience operating in the unique terrain of the Albuquerque area, we understand the specific challenges and requirements of excavation projects in this region. From residential site preparation to commercial land clearing, our skilled team and state-of-the-art equipment ensure efficient and reliable results.\n\nWe are committed to providing top-notch customer service and exceeding expectations on every project. Our services include land clearing, trenching, grading, and demolition, all tailored to meet the specific needs of Albuquerque’s diverse landscape. We are fully licensed and insured, prioritizing safety and environmental responsibility in all our operations. Trust DRP Tractor Services for all your excavation needs in Albuquerque.",
+        "localContext": "Albuquerque, nestled in the high desert, presents unique excavation considerations due to its soil composition and arid climate. DRP Tractor Services is familiar with the specific needs of Albuquerque projects.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Los Lunas",
+          "Bernalillo"
+        ]
+      },
+      {
+        "city": "Rio Rancho",
+        "slug": "rio-rancho-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services extends its expert excavation services to the growing community of Rio Rancho, New Mexico. We understand the rapid development and construction occurring in Rio Rancho and are equipped to handle a wide range of excavation projects, from residential foundations to commercial infrastructure.\n\nOur team is dedicated to providing efficient and cost-effective solutions, ensuring that your project stays on schedule and within budget. We offer services such as site preparation, utility trenching, and land grading, all performed with the highest standards of quality and safety. Choose DRP Tractor Services for reliable and professional excavation services in Rio Rancho.",
+        "localContext": "Rio Rancho's ongoing growth requires careful planning and execution of excavation projects. DRP Tractor Services understands the nuances of working in Rio Rancho.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Bernalillo",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Los Lunas",
+        "slug": "los-lunas-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services proudly serves Los Lunas, New Mexico, providing top-quality excavation services to residential and commercial clients. We are familiar with the specific needs of the Los Lunas community and are committed to delivering exceptional results.\n\nOur services include site preparation, trenching, and land clearing, all performed with precision and care. We prioritize customer satisfaction and strive to exceed expectations on every project. Trust DRP Tractor Services for reliable and professional excavation services in Los Lunas.",
+        "localContext": "Los Lunas, with its mix of agricultural and residential areas, requires specific excavation approaches. DRP Tractor Services is experienced in working in this environment.",
+        "nearbyAreas": [
+          "Albuquerque",
+          "Belen",
+          "Bosque Farms"
+        ]
+      },
+      {
+        "city": "Bernalillo",
+        "slug": "bernalillo-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services offers expert excavation services to the town of Bernalillo, New Mexico, and the surrounding areas. We understand the unique character of Bernalillo and are committed to providing services that meet the needs of this historic community.\n\nOur team is equipped to handle a variety of excavation projects, from residential landscaping to commercial development. We prioritize safety and environmental responsibility in all our operations. Choose DRP Tractor Services for reliable and professional excavation services in Bernalillo.",
+        "localContext": "Bernalillo, situated along the Rio Grande, requires careful excavation practices to protect the environment. DRP Tractor Services is committed to responsible excavation in Bernalillo.",
+        "nearbyAreas": [
+          "Rio Rancho",
+          "Albuquerque",
+          "Placitas"
+        ]
+      },
+      {
+        "city": "Placitas",
+        "slug": "placitas-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services is pleased to offer comprehensive excavation services to the scenic community of Placitas, New Mexico. We understand the unique landscape and environmental sensitivities of Placitas and are committed to providing services that minimize impact and preserve the natural beauty of the area.\n\nOur team is experienced in handling a variety of excavation projects, from residential site preparation to land clearing for new construction. We prioritize customer satisfaction and strive to exceed expectations on every project. Trust DRP Tractor Services for reliable and professional excavation services in Placitas.",
+        "localContext": "Placitas' rugged terrain and environmentally sensitive areas require careful planning and execution of excavation projects. DRP Tractor Services understands the special requirements of working in Placitas.",
+        "nearbyAreas": [
+          "Bernalillo",
+          "Rio Rancho",
+          "Santa Fe"
+        ]
+      },
+      {
+        "city": "Belen",
+        "slug": "belen-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services provides professional excavation services to Belen, New Mexico, and the surrounding Valencia County. With a commitment to quality and customer satisfaction, we offer comprehensive solutions for residential, commercial, and agricultural excavation needs.\n\nOur services encompass site preparation, trenching, land grading, and more. We understand the specific challenges of working in the Belen area and are dedicated to delivering efficient and cost-effective results. Trust DRP Tractor Services for all your excavation needs in Belen.",
+        "localContext": "Belen, with its strategic location and agricultural roots, presents a variety of excavation needs. DRP Tractor Services is familiar with the specific requirements of projects in Belen.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Bosque Farms",
+          "Socorro"
+        ]
+      },
+      {
+        "city": "Bosque Farms",
+        "slug": "bosque-farms-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services proudly serves the village of Bosque Farms, New Mexico, offering expert excavation services tailored to the needs of this unique community. We understand the importance of preserving the agricultural heritage of Bosque Farms and are committed to providing environmentally responsible solutions.\n\nOur services include site preparation, trenching, and land grading, all performed with precision and care. We prioritize customer satisfaction and strive to exceed expectations on every project. Trust DRP Tractor Services for reliable and professional excavation services in Bosque Farms.",
+        "localContext": "Bosque Farms, known for its agricultural character, requires careful consideration when undertaking excavation projects. DRP Tractor Services is experienced in working in this environment.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Belen",
+          "Peralta"
+        ]
+      },
+      {
+        "city": "Peralta",
+        "slug": "peralta-nm",
+        "state": "NM",
+        "content": "DRP Tractor Services extends its professional excavation services to Peralta, New Mexico. We provide a wide range of excavation solutions to meet the needs of residential and commercial projects in the area.\n\nOur team is committed to delivering high-quality workmanship and exceeding customer expectations. We understand the local requirements and regulations, ensuring that all projects are completed safely and efficiently. Choose DRP Tractor Services for reliable and professional excavation services in Peralta.",
+        "localContext": "Peralta, experiencing growth, requires careful planning and execution of excavation projects for both residential and commercial developments. DRP Tractor Services understands the nuances of working in Peralta.",
+        "nearbyAreas": [
+          "Los Lunas",
+          "Bosque Farms",
+          "Valencia"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Site Grading",
+        "text": "DRP Tractor Services did an outstanding job grading our lot in Rio Rancho. They were prompt, professional, and the work was completed exactly as we needed for our new home build. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Trenching and Excavation",
+        "text": "We hired DRP to run a new gas line to our casita. They were very careful to avoid damaging our existing landscaping and the trench was perfectly straight. Good communication throughout the project.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Linda K.",
+        "rating": 5,
+        "service": "Land Clearing",
+        "text": "After the big storm, we had a lot of downed trees and debris on our property. DRP Tractor Services came out and cleared everything quickly and efficiently. They left the property looking better than before!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "Our backyard was constantly flooding during the monsoon season. DRP installed a French drain, and now the water drains perfectly. A huge relief!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Foundation Excavation",
+        "text": "DRP Tractor Services excavated the foundation for our new garage. They were very precise and made sure everything was level. The builders were very impressed with their work.",
+        "date": "2025-01-12"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Erosion Control",
+        "text": "We had a serious erosion problem on our hillside property. DRP installed silt fencing and erosion blankets, and it has made a huge difference. The soil is now stable, and we're no longer worried about losing our land.",
+        "date": "2025-02-20"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "DRP Tractor Services | Albuquerque Excavation",
+        "description": "Albuquerque's trusted excavation contractor. Site grading, trenching, land clearing, drainage. Call +15059910677 for a free quote!"
+      },
+      "about": {
+        "title": "About DRP Tractor Services | Albuquerque NM",
+        "description": "Learn about DRP Tractor Services, Albuquerque's premier excavation contractor. Quality, reliability, and community commitment."
+      },
+      "services": {
+        "title": "Excavation Services | Albuquerque NM | DRP Tractor",
+        "description": "DRP Tractor Services offers comprehensive excavation solutions in Albuquerque. Site grading, trenching, land clearing & more."
+      },
+      "contact": {
+        "title": "Contact DRP Tractor Services | Albuquerque NM",
+        "description": "Contact DRP Tractor Services for all your excavation needs in Albuquerque. Call +15059910677 or request a free quote online."
+      },
+      "reviews": {
+        "title": "DRP Tractor Services Reviews | Albuquerque Excavation",
+        "description": "Read reviews for DRP Tractor Services. See why Albuquerque trusts us for site grading, trenching, land clearing, and more."
+      },
+      "service-areas": {
+        "title": "DRP Tractor Services Service Areas",
+        "description": "DRP Tractor Services provides excavation services in Albuquerque and surrounding areas. Find your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "site-grading": "/images/service-site-grading.webp",
+      "trenching-and-excavation": "/images/service-trenching-and-excavation.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "foundation-excavation": "/images/service-foundation-excavation.webp",
+      "erosion-control": "/images/service-erosion-control.webp"
+    },
+    "servicesResponsive": {
+      "site-grading": {
+        "src": "/images/service-site-grading.webp",
+        "srcset": "/images/service-site-grading-400w.webp 400w, /images/service-site-grading-800w.webp 800w, /images/service-site-grading-1200w.webp 1200w, /images/service-site-grading.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "trenching-and-excavation": {
+        "src": "/images/service-trenching-and-excavation.webp",
+        "srcset": "/images/service-trenching-and-excavation-400w.webp 400w, /images/service-trenching-and-excavation-800w.webp 800w, /images/service-trenching-and-excavation-1200w.webp 1200w, /images/service-trenching-and-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-excavation": {
+        "src": "/images/service-foundation-excavation.webp",
+        "srcset": "/images/service-foundation-excavation-400w.webp 400w, /images/service-foundation-excavation-800w.webp 800w, /images/service-foundation-excavation-1200w.webp 1200w, /images/service-foundation-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "erosion-control": {
+        "src": "/images/service-erosion-control.webp",
+        "srcset": "/images/service-erosion-control-400w.webp 400w, /images/service-erosion-control-800w.webp 800w, /images/service-erosion-control-1200w.webp 1200w, /images/service-erosion-control.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
